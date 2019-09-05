@@ -1,6 +1,6 @@
 # Spring Boot based Java Parser
 
-Parser in Java based on Spring Boot ,that parses web server access log file, loads the log to MySQL and 
+Java based parser with Spring Boot ,that parses web server access log file, loads the log to MySQL and 
 checks if a given IP makes more than a certain number of requests for the given time duration currently
 one hour and 24 hours.Please ensure MySQL is up and all Schema created before running. 
 
